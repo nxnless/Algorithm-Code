@@ -32,8 +32,7 @@ int main(){
 					if(rug < longest[j][v]){
 						longest[j][v] = rug;
 					}
-				}
-			
+				}	
 		}
 	}
 	
